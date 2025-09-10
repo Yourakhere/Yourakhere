@@ -46,7 +46,6 @@
 ---
 
 ## 📈 Profile Insights
-![Profile Views](https://visitcount.itsvg.in/api?id=Yourakhere&label=Profile%20Views&color=2&icon=5&pretty=true)  
 ![Total Visitors](https://komarev.com/ghpvc/?username=Yourakhere&label=Total%20Visitors&color=brightgreen&style=for-the-badge)  
 
 ---
