@@ -2,7 +2,7 @@
 🔭 Currently building projects with the **MERN Stack**  
 🌱 Exploring **Cloud, DevOps, and Web3**  
 👯 Open to collaborating on **full-stack projects**  
-📂 Check out my portfolio 👉 [yourakhere.vercel.app](https://yourak.vercel.app/)  
+📂 Check out my portfolio 👉 [yourak.vercel.app](https://yourak.vercel.app)  
 
 ---
 
