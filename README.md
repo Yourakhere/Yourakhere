@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 Currently building projects with the **MERN Stack**  
+🔭 Currently building projects with the **MEARN Stack**  
 🌱 Exploring **Cloud, Web3**  
 👯 Open to collaborating on **full-stack projects**  
 📂 Check out my portfolio 👉 [yourak.vercel.app](https://yourak.vercel.app)  
